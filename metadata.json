@@ -1,0 +1,8 @@
+{
+  "name": "Remix: MathSpace",
+  "description": "Local-first mathematical whiteboard featuring LaTeX-equipped Tiptap editors, bidirectional block links, and DataScript persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
